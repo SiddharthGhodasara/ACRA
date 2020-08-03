@@ -31,13 +31,13 @@ The prototype illustrates the basic functionalities and expectations of A.C.R.A.
 
 The video below illustrates the teach pendant capability of A.C.R.A.
 
-<video src="media/ACRA.mp4" width="320" height="200" controls preload></video>
+<video src="media/ACRA.mp4" width="1280" height="720" controls preload></video>
 
 
 
 The following video showcases the touch sensing feature of A.C.R.A.
 
-<video src="media/Capsense.mp4" width="320" height="200" controls preload></video>
+<video src="media/Capsense.mp4" width="1280" height="720" controls preload></video>
 
 
 
